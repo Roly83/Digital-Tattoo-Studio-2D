@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Tattoo Studio",
+  "description": "An application to virtually try on tattoos. Users can upload a photo of a body part, upload or generate tattoo designs with AI, and then place, resize, rotate, and adjust the tattoos on the body. The final composition of tattoos can be exported as a single image.",
+  "requestFramePermissions": []
+}
